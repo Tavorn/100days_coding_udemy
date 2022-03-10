@@ -1,16 +1,9 @@
-import colorgram
+import turtle as turtle_module
+import random
 
-rgb_colors = []
-colors = colorgram.extract('image.jpg', 30)
-for color in colors:
-    r = color.rgb.r
-    g = color.rgb.g
-    b = color.rgb.b
-    new_color = (r, g, b)
-    rgb_colors.append(new_color)
-
-print(rgb_colors)
-
+tim = turtle_module.Turtle()
+tim.penup()
+tim.hideturtle()
 my_colors = [
     (212, 149, 95), (215, 80, 62), (47, 94, 142), (231, 218, 92), (148, 66, 91), (22, 27, 40), (155, 73, 60),
     (122, 167, 195), (40, 22, 29), (39, 19, 15), (209, 70, 89), (192, 140, 159), (39, 131, 91), (125, 179, 141),
@@ -18,12 +11,43 @@ my_colors = [
     (35, 164, 196), (234, 171, 162), (105, 44, 39), (164, 209, 187), (151, 206, 220)
 ]
 
+turtle_module.colormode(255)
+turtle_module.speed("fastest")
+
+tim.setheading(225)
+tim.forward(250)
+tim.setheading(0)
+number_of_dots = 100
+
+
+for dot_count in range(1, number_of_dots + 1):
+    tim.dot(20, random.choice(my_colors))
+    tim.forward(50)
+
+    if dot_count % 10 == 0:
+        tim.setheading(90)
+        tim.forward(50)
+        tim.setheading(180)
+        tim.forward(500)
+        tim.setheading(0)
+
+
+turtle_module.exitonclick()
+
 """
-# import random
-# import turtle as t
+# import colorgram
+
+# rgb_colors = []
+# colors = colorgram.extract('image.jpg', 30)
+# for color in colors:
+#     r = color.rgb.r
+#     g = color.rgb.g
+#     b = color.rgb.b
+#     new_color = (r, g, b)
+#     rgb_colors.append(new_color)
 # 
-# t.colormode(255)
-# t.speed("fastest")
+# print(rgb_colors)
+
 # 
 # 
 # def random_color():
@@ -59,5 +83,5 @@ my_colors = [
 # for shape_side_n in range(3, 11):
 #     tim.color(random.choice(colors))
 #     draw_shape(shape_side_n)
-# t.exitonclick()
+# 
 """
