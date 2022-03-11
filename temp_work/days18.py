@@ -32,7 +32,34 @@ for dot_count in range(1, number_of_dots + 1):
         tim.setheading(0)
 
 
+def move_forwards():
+    tim.forward(10)
+
+
+def move_backwards():
+    tim.backward(10)
+
+
+def turn_right():
+    tim.right(10)
+
+
+def turn_left():
+    tim.left(10)
+
+
+def clear():
+    turtle_module.resetscreen()
+
+
+turtle_module.listen()
+turtle_module.onkey(key="w", fun=move_forwards)
+turtle_module.onkey(key="s", fun=move_backwards)
+turtle_module.onkey(key="a", fun=turn_left)
+turtle_module.onkey(key="d", fun=turn_right)
+turtle_module.onkey(key="c", fun=clear)
 turtle_module.exitonclick()
+
 
 """
 # import colorgram

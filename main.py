@@ -2,32 +2,13 @@ from turtle import Turtle, Screen
 
 tim = Turtle()
 screen = Screen()
+height = 400
+width = 500
+screen.setup(width, height)
+print(screen.window_width())
+print(screen.window_height())
+screen.title("Welcome to the turtle race")
 
 
-def move_forwards():
-    tim.forward(10)
 
-
-def move_backwards():
-    tim.backward(10)
-
-
-def turn_right():
-    tim.right(10)
-
-
-def turn_left():
-    tim.left(10)
-
-
-def clear():
-    screen.resetscreen()
-
-
-screen.listen()
-screen.onkey(key="w", fun=move_forwards)
-screen.onkey(key="s", fun=move_backwards)
-screen.onkey(key="a", fun=turn_left)
-screen.onkey(key="d", fun=turn_right)
-screen.onkey(key="c", fun=clear)
 screen.exitonclick()
