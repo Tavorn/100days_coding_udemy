@@ -1,3 +1,4 @@
+import time
 from turtle import Screen
 from ball import Ball
 from scoreboard import ScoreBoard
@@ -21,6 +22,8 @@ game_is_on = True
 while game_is_on:
     screen.update()
     ball.refresh()
+    time.sleep(0.1)
+    pong.move()
 
 
 screen.exitonclick()
