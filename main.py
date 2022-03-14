@@ -14,16 +14,17 @@ scoreboard = ScoreBoard()
 pong = Pong()
 
 screen.listen()
-screen.onkey(pong.up, "Up")
-screen.onkey(pong.down, "Down")
+# screen.onkey(pong.up, "Up")
+# screen.onkey(pong.down, "Down")
 
-
+pong.create_pong()
 game_is_on = True
 while game_is_on:
     screen.update()
     ball.refresh()
     time.sleep(0.1)
     pong.move()
+
 
 
 screen.exitonclick()
