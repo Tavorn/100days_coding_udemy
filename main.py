@@ -1,40 +1,30 @@
-import time
-from turtle import Screen
-from ball import Ball
-from scoreboard import ScoreBoard
-from pong import Pong
+from turtle import Screen, Turtle
 
 screen = Screen()
 screen.setup(width=800, height=600)
 screen.bgcolor("black")
-screen.title("Pong Game")
+screen.title("Pong")
 
-ball = Ball()
-scoreboard = ScoreBoard()
-pong = Pong()
+paddle = Turtle()
+paddle.shape("square")
+paddle.color("white")
+paddle.shapesize(stretch_wid=5, stretch_len=1)
+paddle.penup()
+paddle.goto(350, 0)
+
+
+def go_up():
+    new_y = paddle.ycor() + 20
+    paddle.goto(paddle.xcor(), new_y)
+
+
+def go_down():
+    new_y = paddle.ycor() + 20
+    paddle.goto(paddle.xcor(), new_y)
+
 
 screen.listen()
-# screen.onkey(pong.up, "Up")
-# screen.onkey(pong.down, "Down")
-
-pong.create_pong()
-game_is_on = True
-while game_is_on:
-    screen.update()
-    ball.refresh()
-    time.sleep(0.1)
-    pong.move()
-
+screen.onkey(go_up, "UP")
 
 
 screen.exitonclick()
-
-"""
-# width = 20
-# height = 100
-# x_pos = 350
-# y_pos = 0
-
-move up
-move down
-"""
