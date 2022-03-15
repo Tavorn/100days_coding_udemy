@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="649250fb-0bfa-4d79-9684-c95a06c32731" name="Changes" comment="day 22 - 201">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/8/38f77efd19f89de9bb3062a0ef940155a2d15446" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+    <list default="true" id="649250fb-0bfa-4d79-9684-c95a06c32731" name="Changes" comment="day 22 - 201 finished">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ball.py" beforeDir="false" afterPath="$PROJECT_DIR$/ball.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
@@ -246,7 +244,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647340608334</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="day 22 - 201 finished">
+      <created>1647352147393</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1647352147393</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -284,6 +289,7 @@
     <MESSAGE value="day 22 - 199 startup02" />
     <MESSAGE value="day 22 - 199 answer" />
     <MESSAGE value="day 22 - 201" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 22 - 201" />
+    <MESSAGE value="day 22 - 201 finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 22 - 201 finished" />
   </component>
 </project>
