@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="649250fb-0bfa-4d79-9684-c95a06c32731" name="Changes" comment="day 22 - 204-1">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/3/43b81c0e5ed0f94438c911097cf0209b2b6bc9ed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ball.py" beforeDir="false" afterPath="$PROJECT_DIR$/ball.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scoreboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/scoreboard.py" afterDir="false" />
-    </list>
+    <list default="true" id="649250fb-0bfa-4d79-9684-c95a06c32731" name="Changes" comment="day 23 - Start" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -275,7 +268,21 @@
       <option name="project" value="LOCAL" />
       <updated>1647442246139</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="day 22 - Finished">
+      <created>1647444995059</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1647444995059</updated>
+    </task>
+    <task id="LOCAL-00028" summary="day 23 - Start">
+      <created>1647445138169</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1647445138169</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -291,8 +298,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="colors" />
-    <MESSAGE value="create colors list" />
     <MESSAGE value="turtle finished" />
     <MESSAGE value="new file added" />
     <MESSAGE value="day 19 - 178" />
@@ -316,6 +321,8 @@
     <MESSAGE value="day 22 - 203" />
     <MESSAGE value="day 22 - 204" />
     <MESSAGE value="day 22 - 204-1" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 22 - 204-1" />
+    <MESSAGE value="day 22 - Finished" />
+    <MESSAGE value="day 23 - Start" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 23 - Start" />
   </component>
 </project>
