@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="649250fb-0bfa-4d79-9684-c95a06c32731" name="Changes" comment="day 23 - 211.1">
+    <list default="true" id="649250fb-0bfa-4d79-9684-c95a06c32731" name="Changes" comment="day 23 - Finished">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/9/79c0643dda5c95154a753026470bde84e902fd74" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/car_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/car_manager.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/player.py" beforeDir="false" afterPath="$PROJECT_DIR$/player.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scoreboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/scoreboard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp_work/Snake_Game/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/temp_work/Snake_Game/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp_work/Snake_Game/scoreboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/temp_work/Snake_Game/scoreboard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp_work/Snake_Game/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/temp_work/Snake_Game/snake.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,14 +55,35 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/temp_work/turtle_game" />
       <recent name="$PROJECT_DIR$/temp_work/Pong Game" />
       <recent name="$PROJECT_DIR$/temp_work" />
       <recent name="$PROJECT_DIR$/temp_work/Snake_Game" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/hirst-painting" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.main (1)">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100days_coding_udemy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/temp_work/Snake_Game" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/temp_work/Snake_Game/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="100days_coding_udemy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -84,6 +105,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main (1)" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -311,7 +337,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647515459648</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="day 23 - Finished">
+      <created>1647529433515</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1647529433515</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -327,7 +360,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="day 19 - 180" />
     <MESSAGE value="day 19 - Finished" />
     <MESSAGE value="day 20 - start" />
     <MESSAGE value="day 20 - start - 184" />
@@ -352,6 +384,7 @@
     <MESSAGE value="day 23 - 210" />
     <MESSAGE value="day 23 - 211" />
     <MESSAGE value="day 23 - 211.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 23 - 211.1" />
+    <MESSAGE value="day 23 - Finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 23 - Finished" />
   </component>
 </project>
