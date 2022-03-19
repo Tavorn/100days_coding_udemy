@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="649250fb-0bfa-4d79-9684-c95a06c32731" name="Changes" comment="day 24 - 222">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/my_file.txt" afterDir="false" />
-    </list>
+    <list default="true" id="649250fb-0bfa-4d79-9684-c95a06c32731" name="Changes" comment="day 24 - 223" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -355,7 +351,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647619576114</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="day 24 - 223">
+      <created>1647620602664</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1647620602664</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -371,7 +374,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="day 20 - start - 184" />
     <MESSAGE value="day 20 - 187" />
     <MESSAGE value="day 20 - finished" />
     <MESSAGE value="day 21 - 190" />
@@ -396,6 +398,7 @@
     <MESSAGE value="day 23 - Finished" />
     <MESSAGE value="day 24 - 220" />
     <MESSAGE value="day 24 - 222" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 24 - 222" />
+    <MESSAGE value="day 24 - 223" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 24 - 223" />
   </component>
 </project>
