@@ -41,3 +41,27 @@ R
 "temp_work/Snake_Game/scoreboard.py,7/9/79c0643dda5c95154a753026470bde84e902fd74
 M
 temp_work/Snake_Game/data.txt,3/7/37fb8eb894e753a97aa44b4b554142cbcad389b1
+;
+my_file.txt,9/2/923b379e7aa10bf315c285c58eaf8396176d3f30
+f
+6Mail Merge Project Start/Input/Names/invited_names.txt,f/5/f59cfd28a6680335f0bd79fba7f9952ceb85ad01
+g
+7Mail Merge Project Start/Output/ReadyToSend/example.txt,1/8/185bbfd79687c2eef7ee509d7b45fc3d515fde35
+o
+?Mail Merge Project Start/Output/ReadyToSend/letter_for_Appa.txt,0/a/0aceebf5bb9eb969d70a32cd63af2435b283663c
+o
+?Mail Merge Project Start/Output/ReadyToSend/letter_for_Toph.txt,9/f/9f8c47a672b76934fe1023aed0b555885d9625b4
+j
+:Mail Merge Project Start/Input/Letters/starting_letter.txt,3/4/348b030f088835d4ee18e18e09db4769e56b1615
+p
+@Mail Merge Project Start/Output/ReadyToSend/letter_for_Sokka.txt,f/3/f35f189d83c3dccb1a06a4657494ebf17bf80f43
+o
+?Mail Merge Project Start/Output/ReadyToSend/letter_for_Zuko.txt,0/7/07c5b59075d31d35ec1c2e5a2de1c38f948b8b22
+o
+?Mail Merge Project Start/Output/ReadyToSend/letter_for_Aang.txt,a/6/a69b2e8519e8c5cb224f2321221461e94f314186
+o
+?Mail Merge Project Start/Output/ReadyToSend/letter_for_Momo.txt,a/8/a8a300bb00a38e8fb07a31e203aa77b45b92691a
+u
+EMail Merge Project Start/Output/ReadyToSend/letter_for_Uncle Iroh.txt,e/c/ecc6ca0f21cba29a2f59d40aa114b65d1f26b4de
+q
+AMail Merge Project Start/Output/ReadyToSend/letter_for_Katara.txt,0/b/0b80dc70fcb169b0034ce8158826cb6dad7cee55
