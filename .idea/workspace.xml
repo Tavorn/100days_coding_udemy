@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="649250fb-0bfa-4d79-9684-c95a06c32731" name="Changes" comment="day 25 - 229">
-      <change afterPath="$PROJECT_DIR$/Day 25/fur_color.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 25/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 25/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="649250fb-0bfa-4d79-9684-c95a06c32731" name="Changes" comment="day 25 - 229 finished" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -427,7 +423,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647778717554</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="day 25 - 229 finished">
+      <created>1647786789213</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1647786789213</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -446,7 +449,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="day 21 - 193" />
     <MESSAGE value="day 21 - 195" />
     <MESSAGE value="day 22 - start" />
     <MESSAGE value="day 22 - 199" />
@@ -471,6 +473,7 @@
     <MESSAGE value="day 24 - 223 start" />
     <MESSAGE value="day 24 - 224" />
     <MESSAGE value="day 25 - 229" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 25 - 229" />
+    <MESSAGE value="day 25 - 229 finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 25 - 229 finished" />
   </component>
 </project>
