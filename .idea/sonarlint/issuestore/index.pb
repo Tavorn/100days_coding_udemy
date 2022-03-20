@@ -35,10 +35,6 @@ M
 temp_work/Snake_Game/snake.py,c/f/cfd0972447eafd89eb2bde8f4700ba1376769fb5
 L
 temp_work/Snake_Game/food.py,3/8/38f77efd19f89de9bb3062a0ef940155a2d15446
-L
-temp_work/Snake_Game/main.py,b/f/bf7e7c059a7b64b12a26e003eb8c11710fa70577
-R
-"temp_work/Snake_Game/scoreboard.py,7/9/79c0643dda5c95154a753026470bde84e902fd74
 M
 temp_work/Snake_Game/data.txt,3/7/37fb8eb894e753a97aa44b4b554142cbcad389b1
 ;
