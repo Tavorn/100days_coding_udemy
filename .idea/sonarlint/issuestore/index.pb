@@ -37,10 +37,6 @@ L
 temp_work/Snake_Game/food.py,3/8/38f77efd19f89de9bb3062a0ef940155a2d15446
 M
 temp_work/Snake_Game/data.txt,3/7/37fb8eb894e753a97aa44b4b554142cbcad389b1
-;
-my_file.txt,9/2/923b379e7aa10bf315c285c58eaf8396176d3f30
-7
-main.py,f/1/f1bdda93d9a278e358509d498e17d97764c1fb29
 L
 temp_work/Snake_Game/main.py,b/f/bf7e7c059a7b64b12a26e003eb8c11710fa70577
 R

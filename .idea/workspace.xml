@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="649250fb-0bfa-4d79-9684-c95a06c32731" name="Changes" comment="day 25 - 231 finished">
-      <change beforePath="$PROJECT_DIR$/us-states-game-start/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/us-states-game-start/main.py" afterDir="false" />
+    <list default="true" id="649250fb-0bfa-4d79-9684-c95a06c32731" name="Changes" comment="day 26">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/923b379e7aa10bf315c285c58eaf8396176d3f30" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/1/f1bdda93d9a278e358509d498e17d97764c1fb29" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -475,7 +477,21 @@
       <option name="project" value="LOCAL" />
       <updated>1647856902682</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="day 25 - 231.1 finished">
+      <created>1647857339726</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1647857339726</updated>
+    </task>
+    <task id="LOCAL-00044" summary="day 26">
+      <created>1647857414106</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1647857414106</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -494,8 +510,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="day 22 - 199 startup" />
-    <MESSAGE value="day 22 - 199 startup01" />
     <MESSAGE value="day 22 - 199 startup02" />
     <MESSAGE value="day 22 - 199 answer" />
     <MESSAGE value="day 22 - 201" />
@@ -519,6 +533,8 @@
     <MESSAGE value="day 25 - 230" />
     <MESSAGE value="day 25 - 231" />
     <MESSAGE value="day 25 - 231 finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 25 - 231 finished" />
+    <MESSAGE value="day 25 - 231.1 finished" />
+    <MESSAGE value="day 26" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 26" />
   </component>
 </project>
