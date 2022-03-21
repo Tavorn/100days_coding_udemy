@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="649250fb-0bfa-4d79-9684-c95a06c32731" name="Changes" comment="day 26-236">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/3/33428f65e697e3a3e88650b4d014db57997f1b8e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+    <list default="true" id="649250fb-0bfa-4d79-9684-c95a06c32731" name="Changes" comment="day 26-239">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/temp_work/day-26/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/temp_work/day-26/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp_work/us-states-game-start/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/temp_work/us-states-game-start/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +47,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -529,7 +526,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647864283772</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="day 26-239">
+      <created>1647870724861</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1647870724861</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -548,7 +552,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="day 22 - 199 answer" />
     <MESSAGE value="day 22 - 201" />
     <MESSAGE value="day 22 - 201 finished" />
     <MESSAGE value="day 22 - 203" />
@@ -573,6 +576,7 @@
     <MESSAGE value="day 25 - 231.1 finished" />
     <MESSAGE value="day 26" />
     <MESSAGE value="day 26-236" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 26-236" />
+    <MESSAGE value="day 26-239" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 26-239" />
   </component>
 </project>
