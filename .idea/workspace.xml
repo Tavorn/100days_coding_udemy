@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="649250fb-0bfa-4d79-9684-c95a06c32731" name="Changes" comment="day 25 - 231">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/7/07c5b59075d31d35ec1c2e5a2de1c38f948b8b22" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/a/0aceebf5bb9eb969d70a32cd63af2435b283663c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/b/0b80dc70fcb169b0034ce8158826cb6dad7cee55" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/8/185bbfd79687c2eef7ee509d7b45fc3d515fde35" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/4/348b030f088835d4ee18e18e09db4769e56b1615" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9f8c47a672b76934fe1023aed0b555885d9625b4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/6/a69b2e8519e8c5cb224f2321221461e94f314186" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/8/a8a300bb00a38e8fb07a31e203aa77b45b92691a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/c/ecc6ca0f21cba29a2f59d40aa114b65d1f26b4de" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/3/f35f189d83c3dccb1a06a4657494ebf17bf80f43" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/5/f59cfd28a6680335f0bd79fba7f9952ceb85ad01" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="649250fb-0bfa-4d79-9684-c95a06c32731" name="Changes" comment="day 25 - 231 finished">
       <change beforePath="$PROJECT_DIR$/us-states-game-start/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/us-states-game-start/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -481,7 +468,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647791827281</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="day 25 - 231 finished">
+      <created>1647856902681</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1647856902682</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -500,7 +494,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="day 22 - 199" />
     <MESSAGE value="day 22 - 199 startup" />
     <MESSAGE value="day 22 - 199 startup01" />
     <MESSAGE value="day 22 - 199 startup02" />
@@ -525,6 +518,7 @@
     <MESSAGE value="day 25 - 229 finished" />
     <MESSAGE value="day 25 - 230" />
     <MESSAGE value="day 25 - 231" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 25 - 231" />
+    <MESSAGE value="day 25 - 231 finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 25 - 231 finished" />
   </component>
 </project>

@@ -19,6 +19,15 @@ while len(guessed_states) < 50:
         title=f"Score: {len(guessed_states)}/50", prompt="What's another state's name?"
     ).title()
 
+    if answer_state == "Exit":
+        missing_states = []
+        for state in all_states:
+            missing_states.append(state)
+        print(missing_states)
+        new_data = pandas.DataFrame(missing_states)
+        new_data.to_csv("states_to_learn.csv")
+        break
+
     if answer_state in all_states:
         guessed_states.append(answer_state)
         t = turtle.Turtle()
@@ -28,4 +37,6 @@ while len(guessed_states) < 50:
         t.goto(int(state_data.x), int(state_data.y))
         t.write(state_data.state.item())
 
-turtle.mainloop()
+
+
+# turtle.mainloop()
