@@ -1,6 +1,5 @@
 import turtle
 import pandas
-from player_score import PlayerScore
 
 screen = turtle.Screen()
 screen.title("U.S. States Game")
@@ -9,24 +8,24 @@ screen.addshape(image)
 turtle.shape(image)
 screen.setup(width=725, height=491)
 
-# player_score = PlayerScore()
 
-states_data = pandas.read_csv("50_states.csv")
+data = pandas.read_csv("50_states.csv")
+all_states = data.state.to_list()
+guessed_states = []
 
-answer_state = screen.textinput(title="Score: 0/50", prompt="What's another state's name?").title()
-x = states_data["x"].to_list
-y = states_data["y"].to_list
-states = states_data["state"].to_list
 
-df = pandas.DataFrame(states_data)
-if df["state"].where(df["state"] == answer_state):
-    print("Yes")
-else:
-    print("No")
+while len(guessed_states) < 50:
+    answer_state = screen.textinput(
+        title=f"Score: {len(guessed_states)}/50", prompt="What's another state's name?"
+    ).title()
 
-# if states_data["state"] == answer_state:
-#     print("Yes")
-# else:
-#     print("No")
+    if answer_state in all_states:
+        guessed_states.append(answer_state)
+        t = turtle.Turtle()
+        t.hideturtle()
+        t.penup()
+        state_data = data[data.state == answer_state]
+        t.goto(int(state_data.x), int(state_data.y))
+        t.write(state_data.state.item())
 
 turtle.mainloop()
