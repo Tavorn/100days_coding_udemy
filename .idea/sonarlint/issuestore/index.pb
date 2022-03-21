@@ -53,8 +53,6 @@ Z
 .temp_work/Mail Merge Project Start/__init__.py,4/7/4734b7045f7f54a7e7aa439713909f2640c464b2
 Q
 !temp_work/Day 25/weather_data.csv,1/4/14dfd32e1bb1629b11fbf45c1ed90cfcad51053c
-H
-temp_work/Day 25/main.py,3/3/33428f65e697e3a3e88650b4d014db57997f1b8e
 L
 temp_work/Day 25/__init__.py,2/7/27ff8be9e4638aa91dbf0938fc9132b810fade74
 z

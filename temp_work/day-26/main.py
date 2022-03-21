@@ -1,4 +1,11 @@
 
+
+"""
+# new_dict = {new_key:new_value for item in list}
+# new_dict = {new_key:new_value for (key,value) in dict.item()}
+# new_dict = {new_key:new_value for (key,value) in dict.item() if test}
+"""
+
 """
 # numbers = [1, 1, 2, 3, 5, 8, 13, 21, 34, 55]
 # # 🚨 Do Not Change the code above
