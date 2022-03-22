@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="649250fb-0bfa-4d79-9684-c95a06c32731" name="Changes" comment="day 26-243">
+    <list default="true" id="649250fb-0bfa-4d79-9684-c95a06c32731" name="Changes" comment="day 22 - 203">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp_work/NATO-alphabet-start/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/temp_work/NATO-alphabet-start/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ball.py" beforeDir="false" afterPath="$PROJECT_DIR$/ball.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,123 +48,17 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/temp_work" />
+      <recent name="$PROJECT_DIR$/temp_work/Snake_Game" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/Day 25" />
-      <recent name="$PROJECT_DIR$/temp_work/turtle_game" />
-      <recent name="$PROJECT_DIR$/temp_work/Pong Game" />
+      <recent name="$PROJECT_DIR$/hirst-painting" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main (6)">
-    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="100days_coding_udemy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mail Merge Project Start" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mail Merge Project Start/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="100days_coding_udemy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 25" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 25/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="100days_coding_udemy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/us-states-game-start" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/us-states-game-start/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main (5)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="100days_coding_udemy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/temp_work/day-26" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/temp_work/day-26/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main (6)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="100days_coding_udemy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/temp_work/NATO-alphabet-start" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/temp_work/NATO-alphabet-start/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="100days_coding_udemy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -185,15 +80,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.main (6)" />
-        <item itemvalue="Python.main (5)" />
-        <item itemvalue="Python.main (4)" />
-        <item itemvalue="Python.main (3)" />
-        <item itemvalue="Python.main (2)" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -372,179 +258,8 @@
       <option name="project" value="LOCAL" />
       <updated>1647352783938</updated>
     </task>
-    <task id="LOCAL-00025" summary="day 22 - 204">
-      <created>1647353325313</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1647353325313</updated>
-    </task>
-    <task id="LOCAL-00026" summary="day 22 - 204-1">
-      <created>1647442246139</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1647442246139</updated>
-    </task>
-    <task id="LOCAL-00027" summary="day 22 - Finished">
-      <created>1647444995059</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1647444995059</updated>
-    </task>
-    <task id="LOCAL-00028" summary="day 23 - Start">
-      <created>1647445138169</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1647445138169</updated>
-    </task>
-    <task id="LOCAL-00029" summary="day 23 - 210">
-      <created>1647445335147</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1647445335147</updated>
-    </task>
-    <task id="LOCAL-00030" summary="day 23 - 211">
-      <created>1647511903006</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1647511903006</updated>
-    </task>
-    <task id="LOCAL-00031" summary="day 23 - 211.1">
-      <created>1647515459648</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1647515459648</updated>
-    </task>
-    <task id="LOCAL-00032" summary="day 23 - Finished">
-      <created>1647529433515</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1647529433515</updated>
-    </task>
-    <task id="LOCAL-00033" summary="day 24 - 220">
-      <created>1647618167437</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1647618167437</updated>
-    </task>
-    <task id="LOCAL-00034" summary="day 24 - 222">
-      <created>1647619576114</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1647619576114</updated>
-    </task>
-    <task id="LOCAL-00035" summary="day 24 - 223">
-      <created>1647620602664</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1647620602664</updated>
-    </task>
-    <task id="LOCAL-00036" summary="day 24 - 223 start">
-      <created>1647698936649</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1647698936649</updated>
-    </task>
-    <task id="LOCAL-00037" summary="day 24 - 224">
-      <created>1647703671885</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1647703671885</updated>
-    </task>
-    <task id="LOCAL-00038" summary="day 25 - 229">
-      <created>1647778717554</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1647778717554</updated>
-    </task>
-    <task id="LOCAL-00039" summary="day 25 - 229 finished">
-      <created>1647786789213</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1647786789213</updated>
-    </task>
-    <task id="LOCAL-00040" summary="day 25 - 230">
-      <created>1647786991549</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1647786991549</updated>
-    </task>
-    <task id="LOCAL-00041" summary="day 25 - 231">
-      <created>1647791827281</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1647791827281</updated>
-    </task>
-    <task id="LOCAL-00042" summary="day 25 - 231 finished">
-      <created>1647856902681</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1647856902682</updated>
-    </task>
-    <task id="LOCAL-00043" summary="day 25 - 231.1 finished">
-      <created>1647857339726</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1647857339726</updated>
-    </task>
-    <task id="LOCAL-00044" summary="day 26">
-      <created>1647857414106</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1647857414106</updated>
-    </task>
-    <task id="LOCAL-00045" summary="day 26">
-      <created>1647861457246</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1647861457246</updated>
-    </task>
-    <task id="LOCAL-00046" summary="day 26-236">
-      <created>1647864283772</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1647864283772</updated>
-    </task>
-    <task id="LOCAL-00047" summary="day 26-239">
-      <created>1647870724861</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1647870724861</updated>
-    </task>
-    <task id="LOCAL-00048" summary="day 26-243">
-      <created>1647873309774</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1647873309774</updated>
-    </task>
-    <option name="localTasksCounter" value="49" />
+    <option name="localTasksCounter" value="25" />
     <servers />
-  </component>
-  <component name="UnknownFeatures">
-    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -559,31 +274,30 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="first commit" />
+    <MESSAGE value="colors" />
+    <MESSAGE value="create colors list" />
+    <MESSAGE value="turtle finished" />
+    <MESSAGE value="new file added" />
+    <MESSAGE value="day 19 - 178" />
+    <MESSAGE value="day 19 - 180" />
+    <MESSAGE value="day 19 - Finished" />
+    <MESSAGE value="day 20 - start" />
+    <MESSAGE value="day 20 - start - 184" />
+    <MESSAGE value="day 20 - 187" />
+    <MESSAGE value="day 20 - finished" />
+    <MESSAGE value="day 21 - 190" />
+    <MESSAGE value="day 21 - 193" />
+    <MESSAGE value="day 21 - 195" />
+    <MESSAGE value="day 22 - start" />
+    <MESSAGE value="day 22 - 199" />
+    <MESSAGE value="day 22 - 199 startup" />
+    <MESSAGE value="day 22 - 199 startup01" />
+    <MESSAGE value="day 22 - 199 startup02" />
+    <MESSAGE value="day 22 - 199 answer" />
+    <MESSAGE value="day 22 - 201" />
     <MESSAGE value="day 22 - 201 finished" />
     <MESSAGE value="day 22 - 203" />
-    <MESSAGE value="day 22 - 204" />
-    <MESSAGE value="day 22 - 204-1" />
-    <MESSAGE value="day 22 - Finished" />
-    <MESSAGE value="day 23 - Start" />
-    <MESSAGE value="day 23 - 210" />
-    <MESSAGE value="day 23 - 211" />
-    <MESSAGE value="day 23 - 211.1" />
-    <MESSAGE value="day 23 - Finished" />
-    <MESSAGE value="day 24 - 220" />
-    <MESSAGE value="day 24 - 222" />
-    <MESSAGE value="day 24 - 223" />
-    <MESSAGE value="day 24 - 223 start" />
-    <MESSAGE value="day 24 - 224" />
-    <MESSAGE value="day 25 - 229" />
-    <MESSAGE value="day 25 - 229 finished" />
-    <MESSAGE value="day 25 - 230" />
-    <MESSAGE value="day 25 - 231" />
-    <MESSAGE value="day 25 - 231 finished" />
-    <MESSAGE value="day 25 - 231.1 finished" />
-    <MESSAGE value="day 26" />
-    <MESSAGE value="day 26-236" />
-    <MESSAGE value="day 26-239" />
-    <MESSAGE value="day 26-243" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 26-243" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 22 - 203" />
   </component>
 </project>
