@@ -79,3 +79,13 @@ y
 Itemp_work/Mail Merge Project Start/Output/ReadyToSend/letter_for_Appa.txt,e/a/ea7aa653bfde0cef96fde94f6805c9c35c278b97
 y
 Itemp_work/Mail Merge Project Start/Output/ReadyToSend/letter_for_Toph.txt,2/f/2f78a289ba5f9e0ea0a63c44bd6171edfd90043c
+7
+main.py,f/1/f1bdda93d9a278e358509d498e17d97764c1fb29
+L
+temp_work/day-26/__init__.py,3/9/3963d2b08969a597551e74b40526cf15a9ee68be
+V
+&temp_work/us-states-game-start/main.py,8/c/8c1fcc6d23aae76cf95b662ee001b09c41ae1a59
+Y
+)temp_work/NATO-alphabet-start/__init__.py,3/2/323b8e98fbab4e832b9d17069c7f6a976742d6b6
+H
+temp_work/Day 25/main.py,3/3/33428f65e697e3a3e88650b4d014db57997f1b8e
