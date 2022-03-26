@@ -87,8 +87,6 @@ Y
 )temp_work/NATO-alphabet-start/__init__.py,3/2/323b8e98fbab4e832b9d17069c7f6a976742d6b6
 H
 temp_work/Day 25/main.py,3/3/33428f65e697e3a3e88650b4d014db57997f1b8e
-h
-8temp_work/NATO-alphabet-start/nato_phonetic_alphabet.csv,9/e/9e43ce61c4ded9b9b57fff9c5dda573e67d68eaf
 H
 temp_work/day-26/main.py,6/8/68e14d60a4d61c59d31382b63e7b6dab11cf6109
 7
