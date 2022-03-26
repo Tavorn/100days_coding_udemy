@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="649250fb-0bfa-4d79-9684-c95a06c32731" name="Changes" comment="day 26-250">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+    <list default="true" id="649250fb-0bfa-4d79-9684-c95a06c32731" name="Changes" comment="day 26-252">
+      <change afterPath="$PROJECT_DIR$/temp_work/day-27/sample_tk.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/temp_work/day-27/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/temp_work/day-27/main.py" afterDir="false" />
     </list>
@@ -204,13 +204,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1646903840859</updated>
-    </task>
-    <task id="LOCAL-00003" summary="create colors list">
-      <created>1646926983713</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1646926983713</updated>
     </task>
     <task id="LOCAL-00004" summary="turtle finished">
       <created>1646929431917</created>
@@ -548,7 +541,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648134263579</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="day 26-252">
+      <created>1648306127977</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1648306127977</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -567,7 +567,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="day 22 - 204-1" />
     <MESSAGE value="day 22 - Finished" />
     <MESSAGE value="day 23 - Start" />
     <MESSAGE value="day 23 - 210" />
@@ -592,6 +591,7 @@
     <MESSAGE value="day 26-243.1" />
     <MESSAGE value="day 26-244 finished" />
     <MESSAGE value="day 26-250" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 26-250" />
+    <MESSAGE value="day 26-252" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 26-252" />
   </component>
 </project>
