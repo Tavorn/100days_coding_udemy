@@ -93,3 +93,15 @@ H
 main.py,f/1/f1bdda93d9a278e358509d498e17d97764c1fb29
 L
 temp_work/day-27/__init__.py,8/1/8194223d88126353555036308ab6efdefacffdb6
+M
+temp_work/day-27/sample_tk.py,d/1/d174e2cd084af913c90d6911bd9796b16d3dd347
+H
+temp_work/day-27/main.py,c/6/c60228f845039c48df144d2e91502e2ba5eece5e
+h
+8temp_work/NATO-alphabet-start/nato_phonetic_alphabet.csv,9/e/9e43ce61c4ded9b9b57fff9c5dda573e67d68eaf
+N
+temp_work/day-27/playground.py,1/9/19df8732b8000870d4d66506cbc713261493bd86
+L
+temp_work/day-28/__init__.py,8/7/87a6f77a116b91b92d2852511c0dee0b445dc6ff
+U
+%temp_work/NATO-alphabet-start/main.py,a/2/a26274301e2d1c69f66fd68ba87e39e4ad573f0f

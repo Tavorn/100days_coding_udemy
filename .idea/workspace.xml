@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="649250fb-0bfa-4d79-9684-c95a06c32731" name="Changes" comment="day 26-252 Finished">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/e/9e43ce61c4ded9b9b57fff9c5dda573e67d68eaf" beforeDir="false" />
+    <list default="true" id="649250fb-0bfa-4d79-9684-c95a06c32731" name="Changes" comment="day 26-253">
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp_work/NATO-alphabet-start/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/temp_work/NATO-alphabet-start/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp_work/day-28/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/temp_work/day-28/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,14 +52,14 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/temp_work/day-28" />
       <recent name="$PROJECT_DIR$/temp_work" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Day 25" />
       <recent name="$PROJECT_DIR$/temp_work/turtle_game" />
-      <recent name="$PROJECT_DIR$/temp_work/Pong Game" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main (6)">
+  <component name="RunManager" selected="Python.main (3)">
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100days_coding_udemy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -103,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (5)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100days_coding_udemy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,11 +110,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/temp_work/day-26" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/temp_work/day-28" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/temp_work/day-26/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/temp_work/day-28/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,11 +188,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (3)" />
         <item itemvalue="Python.main (6)" />
         <item itemvalue="Python.main (2)" />
         <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.playground" />
-        <item itemvalue="Python.main (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -205,13 +204,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1646903840859</updated>
-    </task>
-    <task id="LOCAL-00005" summary="new file added">
-      <created>1646983220317</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1646983220317</updated>
     </task>
     <task id="LOCAL-00006" summary="day 19 - 178">
       <created>1646989029997</created>
@@ -549,7 +541,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648309209373</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="day 26-253">
+      <created>1648310423953</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1648310423953</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -568,7 +567,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="day 23 - Start" />
     <MESSAGE value="day 23 - 210" />
     <MESSAGE value="day 23 - 211" />
     <MESSAGE value="day 23 - 211.1" />
@@ -593,6 +591,7 @@
     <MESSAGE value="day 26-250" />
     <MESSAGE value="day 26-252" />
     <MESSAGE value="day 26-252 Finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 26-252 Finished" />
+    <MESSAGE value="day 26-253" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 26-253" />
   </component>
 </project>
