@@ -105,3 +105,11 @@ L
 temp_work/day-28/__init__.py,8/7/87a6f77a116b91b92d2852511c0dee0b445dc6ff
 U
 %temp_work/NATO-alphabet-start/main.py,a/2/a26274301e2d1c69f66fd68ba87e39e4ad573f0f
+d
+4temp_work/day-28/Solution - pomodoro-end/__init__.py,8/1/81fb0de37510e7889e2bb0bfa0c55edb72350614
+`
+0temp_work/day-28/Solution - pomodoro-end/main.py,9/f/9fb413c97106190a2931b5092b4ddd2db2fa23a0
+H
+temp_work/day-28/main.py,5/f/5fb65e1b413ec20ad720792c6d7bf80a0aaea0ba
+L
+temp_work/day-29/__init__.py,c/f/cf6e0e523ea2b0b5011fb1804e0107f696c5b28b

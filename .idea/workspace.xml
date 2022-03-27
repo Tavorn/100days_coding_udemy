@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="649250fb-0bfa-4d79-9684-c95a06c32731" name="Changes" comment="day 26-258">
+    <list default="true" id="649250fb-0bfa-4d79-9684-c95a06c32731" name="Changes" comment="day 29">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp_work/day-28/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/temp_work/day-28/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -203,20 +202,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1646903840859</updated>
-    </task>
-    <task id="LOCAL-00007" summary="day 19 - 180">
-      <created>1646989849658</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1646989849658</updated>
-    </task>
-    <task id="LOCAL-00008" summary="day 19 - Finished">
-      <created>1646994522164</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1646994522164</updated>
     </task>
     <task id="LOCAL-00009" summary="day 20 - start">
       <created>1646994680288</created>
@@ -547,7 +532,21 @@
       <option name="project" value="LOCAL" />
       <updated>1648392545821</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="day 26-finished">
+      <created>1648396920928</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1648396920928</updated>
+    </task>
+    <task id="LOCAL-00057" summary="day 29">
+      <created>1648397002569</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1648397002569</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -566,8 +565,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="day 23 - 211" />
-    <MESSAGE value="day 23 - 211.1" />
     <MESSAGE value="day 23 - Finished" />
     <MESSAGE value="day 24 - 220" />
     <MESSAGE value="day 24 - 222" />
@@ -591,6 +588,8 @@
     <MESSAGE value="day 26-252 Finished" />
     <MESSAGE value="day 26-253" />
     <MESSAGE value="day 26-258" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 26-258" />
+    <MESSAGE value="day 26-finished" />
+    <MESSAGE value="day 29" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 29" />
   </component>
 </project>
