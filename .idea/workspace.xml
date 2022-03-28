@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="649250fb-0bfa-4d79-9684-c95a06c32731" name="Changes" comment="day 29 - start">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/8/68e14d60a4d61c59d31382b63e7b6dab11cf6109" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9fb413c97106190a2931b5092b4ddd2db2fa23a0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/6/c60228f845039c48df144d2e91502e2ba5eece5e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/1/d174e2cd084af913c90d6911bd9796b16d3dd347" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+    <list default="true" id="649250fb-0bfa-4d79-9684-c95a06c32731" name="Changes" comment="day 29 - 264">
+      <change afterPath="$PROJECT_DIR$/temp_work/day-29/data.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/temp_work/day-29/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/temp_work/day-29/main.py" afterDir="false" />
     </list>
@@ -208,13 +204,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1646903840859</updated>
-    </task>
-    <task id="LOCAL-00010" summary="day 20 - start - 184">
-      <created>1647004861138</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1647004861138</updated>
     </task>
     <task id="LOCAL-00011" summary="day 20 - 187">
       <created>1647009620251</created>
@@ -552,7 +541,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648397233312</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="day 29 - 264">
+      <created>1648457904070</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1648457904070</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -571,7 +567,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="day 24 - 220" />
     <MESSAGE value="day 24 - 222" />
     <MESSAGE value="day 24 - 223" />
     <MESSAGE value="day 24 - 223 start" />
@@ -596,6 +591,7 @@
     <MESSAGE value="day 26-finished" />
     <MESSAGE value="day 29" />
     <MESSAGE value="day 29 - start" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 29 - start" />
+    <MESSAGE value="day 29 - 264" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 29 - 264" />
   </component>
 </project>
