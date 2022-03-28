@@ -87,16 +87,10 @@ Y
 )temp_work/NATO-alphabet-start/__init__.py,3/2/323b8e98fbab4e832b9d17069c7f6a976742d6b6
 H
 temp_work/Day 25/main.py,3/3/33428f65e697e3a3e88650b4d014db57997f1b8e
-H
-temp_work/day-26/main.py,6/8/68e14d60a4d61c59d31382b63e7b6dab11cf6109
 7
 main.py,f/1/f1bdda93d9a278e358509d498e17d97764c1fb29
 L
 temp_work/day-27/__init__.py,8/1/8194223d88126353555036308ab6efdefacffdb6
-M
-temp_work/day-27/sample_tk.py,d/1/d174e2cd084af913c90d6911bd9796b16d3dd347
-H
-temp_work/day-27/main.py,c/6/c60228f845039c48df144d2e91502e2ba5eece5e
 h
 8temp_work/NATO-alphabet-start/nato_phonetic_alphabet.csv,9/e/9e43ce61c4ded9b9b57fff9c5dda573e67d68eaf
 N
@@ -107,8 +101,6 @@ U
 %temp_work/NATO-alphabet-start/main.py,a/2/a26274301e2d1c69f66fd68ba87e39e4ad573f0f
 d
 4temp_work/day-28/Solution - pomodoro-end/__init__.py,8/1/81fb0de37510e7889e2bb0bfa0c55edb72350614
-`
-0temp_work/day-28/Solution - pomodoro-end/main.py,9/f/9fb413c97106190a2931b5092b4ddd2db2fa23a0
 H
 temp_work/day-28/main.py,5/f/5fb65e1b413ec20ad720792c6d7bf80a0aaea0ba
 L
