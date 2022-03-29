@@ -105,3 +105,7 @@ H
 temp_work/day-28/main.py,5/f/5fb65e1b413ec20ad720792c6d7bf80a0aaea0ba
 L
 temp_work/day-29/__init__.py,c/f/cf6e0e523ea2b0b5011fb1804e0107f696c5b28b
+H
+temp_work/day-26/main.py,6/8/68e14d60a4d61c59d31382b63e7b6dab11cf6109
+M
+temp_work/day-27/sample_tk.py,d/1/d174e2cd084af913c90d6911bd9796b16d3dd347
