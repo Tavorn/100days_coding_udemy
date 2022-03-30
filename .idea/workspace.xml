@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="649250fb-0bfa-4d79-9684-c95a06c32731" name="Changes" comment="day 29 - Finished">
+    <list default="true" id="649250fb-0bfa-4d79-9684-c95a06c32731" name="Changes" comment="day 30">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_3_2022_AD_01_19_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_3_2022_AD_01_19__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/2/a26274301e2d1c69f66fd68ba87e39e4ad573f0f" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp_work/NATO-alphabet-start/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/temp_work/NATO-alphabet-start/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp_work/day-30/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/temp_work/day-30/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +63,7 @@
       <recent name="$PROJECT_DIR$/Day 25" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main (4)">
+  <component name="RunManager" selected="Python.main (6)">
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100days_coding_udemy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -187,9 +192,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (6)" />
         <item itemvalue="Python.main (4)" />
         <item itemvalue="Python.main (3)" />
-        <item itemvalue="Python.main (6)" />
         <item itemvalue="Python.main (2)" />
         <item itemvalue="Python.main (1)" />
       </list>
@@ -203,13 +208,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1646903840859</updated>
-    </task>
-    <task id="LOCAL-00012" summary="day 20 - finished">
-      <created>1647010729931</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1647010729931</updated>
     </task>
     <task id="LOCAL-00013" summary="day 21 - 190">
       <created>1647080739782</created>
@@ -547,7 +545,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648466782983</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="day 30">
+      <created>1648540423983</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1648540423984</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -566,7 +571,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="day 24 - 223" />
     <MESSAGE value="day 24 - 223 start" />
     <MESSAGE value="day 24 - 224" />
     <MESSAGE value="day 25 - 229" />
@@ -591,6 +595,7 @@
     <MESSAGE value="day 29 - start" />
     <MESSAGE value="day 29 - 264" />
     <MESSAGE value="day 29 - Finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 29 - Finished" />
+    <MESSAGE value="day 30" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 30" />
   </component>
 </project>

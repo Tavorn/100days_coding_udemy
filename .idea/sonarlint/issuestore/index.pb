@@ -97,8 +97,6 @@ N
 temp_work/day-27/playground.py,1/9/19df8732b8000870d4d66506cbc713261493bd86
 L
 temp_work/day-28/__init__.py,8/7/87a6f77a116b91b92d2852511c0dee0b445dc6ff
-U
-%temp_work/NATO-alphabet-start/main.py,a/2/a26274301e2d1c69f66fd68ba87e39e4ad573f0f
 d
 4temp_work/day-28/Solution - pomodoro-end/__init__.py,8/1/81fb0de37510e7889e2bb0bfa0c55edb72350614
 H
@@ -109,3 +107,13 @@ H
 temp_work/day-26/main.py,6/8/68e14d60a4d61c59d31382b63e7b6dab11cf6109
 M
 temp_work/day-27/sample_tk.py,d/1/d174e2cd084af913c90d6911bd9796b16d3dd347
+I
+temp_work/day-29/data.txt,2/7/277d44dfd25c084c012b6de97ce8b42ecf100242
+H
+temp_work/day-27/main.py,c/6/c60228f845039c48df144d2e91502e2ba5eece5e
+`
+0temp_work/day-28/Solution - pomodoro-end/main.py,9/f/9fb413c97106190a2931b5092b4ddd2db2fa23a0
+H
+temp_work/day-29/main.py,5/3/53938b6e7948fba93dda20ffbea49b698dfcddc3
+L
+temp_work/day-30/__init__.py,3/8/380fbe049ae784563c3b726c06994b672f535d7e
