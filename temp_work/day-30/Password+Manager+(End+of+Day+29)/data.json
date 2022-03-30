@@ -1,14 +1,18 @@
 {
-    "Google": {
+    "Facebook": {
         "email": "angela@gmail.com",
-        "password": "1uyAe*wzU+IA%L7)"
+        "password": "SXVBCx9+8$3o0K"
     },
     "Ebay": {
         "email": "angela@gmail.com",
-        "password": "kd6L!DG5$HC)#WF6"
+        "password": "SwPdC*4An*0G)#0s"
     },
-    "Yahoo": {
+    "Google": {
         "email": "angela@gmail.com",
-        "password": "Bgno5RwD(&8g"
+        "password": "1W7(x4it!eIufS"
+    },
+    "Apple": {
+        "email": "angela@gmail.com",
+        "password": "EA&kug6*5bMtM01&T"
     }
 }
