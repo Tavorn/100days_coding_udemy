@@ -111,9 +111,25 @@ I
 temp_work/day-29/data.txt,2/7/277d44dfd25c084c012b6de97ce8b42ecf100242
 H
 temp_work/day-27/main.py,c/6/c60228f845039c48df144d2e91502e2ba5eece5e
-`
-0temp_work/day-28/Solution - pomodoro-end/main.py,9/f/9fb413c97106190a2931b5092b4ddd2db2fa23a0
 H
 temp_work/day-29/main.py,5/3/53938b6e7948fba93dda20ffbea49b698dfcddc3
 L
 temp_work/day-30/__init__.py,3/8/380fbe049ae784563c3b726c06994b672f535d7e
+[
++temp_work/day-30/nato_phonetic_alphabet.csv,c/3/c32a5427da2d5873bfdab3846bfea5664007db78
+U
+%temp_work/NATO-alphabet-start/main.py,a/2/a26274301e2d1c69f66fd68ba87e39e4ad573f0f
+m
+=temp_work/day-30/Password+Manager+(End+of+Day+29)/__init__.py,8/c/8cc235ec44a796d52b5ceeb0fecf20fc819afcaa
+H
+temp_work/day-30/main.py,8/c/8ce44beb660e9cf91b8bfee7658fd1f14ca37a68
+j
+:temp_work/day-30/Password+Manager+(End+of+Day+29)/data.txt,5/9/5908a75bb80eeaf44df1015b4955a8689f1774e5
+k
+;temp_work/day-30/Password+Manager+(End+of+Day+29)/data.json,6/0/60004c01a39eb4d3b9cacf02f92defc81a9358d7
+e
+5temp_work/day-31/flash-card-project-start/__init__.py,c/3/c366aec0bfb95c5b2ce40260930ab053b69a3d41
+H
+temp_work/day-31/main.py,8/6/86735ba5f8083c644c7854075f33711470ed20fa
+L
+temp_work/day-31/__init__.py,7/7/77e5571e58995784dc02213d0530f005fe13c68f
