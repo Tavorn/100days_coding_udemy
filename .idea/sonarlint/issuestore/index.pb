@@ -85,8 +85,6 @@ V
 &temp_work/us-states-game-start/main.py,8/c/8c1fcc6d23aae76cf95b662ee001b09c41ae1a59
 Y
 )temp_work/NATO-alphabet-start/__init__.py,3/2/323b8e98fbab4e832b9d17069c7f6a976742d6b6
-H
-temp_work/Day 25/main.py,3/3/33428f65e697e3a3e88650b4d014db57997f1b8e
 7
 main.py,f/1/f1bdda93d9a278e358509d498e17d97764c1fb29
 L
