@@ -4,27 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="649250fb-0bfa-4d79-9684-c95a06c32731" name="Changes" comment="day 32 - Finished">
-      <change afterPath="$PROJECT_DIR$/temp_work/day-33/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp_work/day-33/issoverhead-start/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp_work/day-33/kanye-quotes-start/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp_work/day-33/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/4/14dfd32e1bb1629b11fbf45c1ed90cfcad51053c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/3/23fd29940467838e02972d4b39954bc856cbebbd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/7/27ff8be9e4638aa91dbf0938fc9132b810fade74" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/c/2c30401a362a7ab71cd3a475cf8a7f87e2698f82" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/3/33428f65e697e3a3e88650b4d014db57997f1b8e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/c/cc02ecd5d78c1a5c3aaad5a3cc34d9af25a37592" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/5/d50897e12f5b78a59d489ebf58fde7307e77fae2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp_work/Day 25/2018_Central_Park_Squirrel_Census_-_Squirrel_Data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/temp_work/day-25/2018_Central_Park_Squirrel_Census_-_Squirrel_Data.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp_work/Day 25/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/temp_work/day-25/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp_work/Day 25/fur_color.csv" beforeDir="false" afterPath="$PROJECT_DIR$/temp_work/day-25/fur_color.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp_work/Day 25/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/temp_work/day-25/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp_work/Day 25/new_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/temp_work/day-25/new_data.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp_work/Day 25/squirrel_count.csv" beforeDir="false" afterPath="$PROJECT_DIR$/temp_work/day-25/squirrel_count.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp_work/Day 25/weather_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/temp_work/day-25/weather_data.csv" afterDir="false" />
+    <list default="true" id="649250fb-0bfa-4d79-9684-c95a06c32731" name="Changes" comment="day 33 - Finished">
+      <change afterPath="$PROJECT_DIR$/temp_work/day-25/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp_work/day-34/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp_work/day-34/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -221,13 +204,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1646903840859</updated>
-    </task>
-    <task id="LOCAL-00024" summary="day 22 - 203">
-      <created>1647352783938</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1647352783938</updated>
     </task>
     <task id="LOCAL-00025" summary="day 22 - 204">
       <created>1647353325313</created>
@@ -565,7 +541,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648813116073</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="day 33 - Finished">
+      <created>1648827553567</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1648827553568</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -584,7 +567,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="day 26-243" />
     <MESSAGE value="day 26-243.1" />
     <MESSAGE value="day 26-244 finished" />
     <MESSAGE value="day 26-250" />
@@ -609,6 +591,7 @@
     <MESSAGE value="day 32 - 288" />
     <MESSAGE value="day 32 - 292" />
     <MESSAGE value="day 32 - Finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 32 - Finished" />
+    <MESSAGE value="day 33 - Finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 33 - Finished" />
   </component>
 </project>
