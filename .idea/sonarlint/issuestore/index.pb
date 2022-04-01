@@ -47,32 +47,18 @@ t
 Dtemp_work/Mail Merge Project Start/Input/Letters/starting_letter.txt,2/c/2c5a5c984c96599c4565940e9813fadfdd5a1cef
 p
 @temp_work/Mail Merge Project Start/Input/Names/invited_names.txt,4/d/4d99c6a665d3cba8c68e5be71b73390ec5a4d49a
-Z
-*temp_work/Mail Merge Project Start/main.py,e/6/e6ee7f64a46d366f486c255f6e84d2e6f0dba967
 ^
 .temp_work/Mail Merge Project Start/__init__.py,4/7/4734b7045f7f54a7e7aa439713909f2640c464b2
-Q
-!temp_work/Day 25/weather_data.csv,1/4/14dfd32e1bb1629b11fbf45c1ed90cfcad51053c
-L
-temp_work/Day 25/__init__.py,2/7/27ff8be9e4638aa91dbf0938fc9132b810fade74
 z
 Jtemp_work/Mail Merge Project Start/Output/ReadyToSend/letter_for_Sokka.txt,f/3/f3ad230794dce057e754659d23a1fba9b35d5028
 y
 Itemp_work/Mail Merge Project Start/Output/ReadyToSend/letter_for_Zuko.txt,c/1/c1bd2a79a07abb3ff46ce174c8c46ae7d15f0f6e
-S
-#temp_work/Day 25/squirrel_count.csv,d/5/d50897e12f5b78a59d489ebf58fde7307e77fae2
-N
-temp_work/Day 25/fur_color.csv,2/c/2c30401a362a7ab71cd3a475cf8a7f87e2698f82
 y
 Itemp_work/Mail Merge Project Start/Output/ReadyToSend/letter_for_Aang.txt,2/f/2fec0a88765abc69600df2e7ed7d05adbd394964
-v
-Ftemp_work/Day 25/2018_Central_Park_Squirrel_Census_-_Squirrel_Data.csv,2/3/23fd29940467838e02972d4b39954bc856cbebbd
 y
 Itemp_work/Mail Merge Project Start/Output/ReadyToSend/letter_for_Momo.txt,2/d/2d80d78828918d29ff71aec0bfb42a2dc4b4224e
 
 Otemp_work/Mail Merge Project Start/Output/ReadyToSend/letter_for_Uncle Iroh.txt,5/b/5b1b712173f5460183db347cb0ed5f749e427080
-M
-temp_work/Day 25/new_data.csv,c/c/cc02ecd5d78c1a5c3aaad5a3cc34d9af25a37592
 {
 Ktemp_work/Mail Merge Project Start/Output/ReadyToSend/letter_for_Katara.txt,d/2/d2dfae61d137919540e635bfe87146b2388ab0bc
 y
@@ -137,8 +123,6 @@ x
 Htemp_work/day-31/Solution+-+flash-card-project-end/data/french_words.csv,0/c/0cd84a19fbd554c6500765f26923c121a29c6dc1
 o
 ?temp_work/day-31/flash-card-project-start/data/french_words.csv,5/e/5ee79fb9fad693d616c9da7547c1545e29a5dd53
-H
-temp_work/Day 25/main.py,3/3/33428f65e697e3a3e88650b4d014db57997f1b8e
 `
 0temp_work/day-28/Solution - pomodoro-end/main.py,9/f/9fb413c97106190a2931b5092b4ddd2db2fa23a0
 i
@@ -149,3 +133,31 @@ j
 :temp_work/day-31/Solution+-+flash-card-project-end/main.py,d/1/d1e1d0e18ba4ee2b553176574ed39f3af8bfcb77
 L
 temp_work/day-32/__init__.py,b/0/b0a89d387eef93ebe816db862b09652ca4f8c971
+K
+temp_work/day-32/quotes.txt,e/b/ebee225d74ea0922858532ca5e876a06476ea2d7
+k
+;temp_work/day-32/Solution+-+birthday-wisher-end/__init__.py,7/6/767445554a0ba215977a762c2b37759ae6f744f9
+}
+Mtemp_work/day-32/Solution+-+birthday-wisher-end/letter_templates/letter_3.txt,9/d/9d106f4049e7f18000fdbd8a3f2950c80fdb9453
+}
+Mtemp_work/day-32/Solution+-+birthday-wisher-end/letter_templates/letter_2.txt,7/a/7a39e2a9e29e83531439bf9101aebccbb6af90cb
+}
+Mtemp_work/day-32/Solution+-+birthday-wisher-end/letter_templates/letter_1.txt,d/8/d86bf8d1dc4905bb4ab6a40f35c1d4dd481172e5
+m
+=temp_work/day-32/Solution+-+birthday-wisher-end/birthdays.csv,b/9/b95a2dd9204b2c5b2535b130d14d0534a8e001fe
+i
+9temp_work/day-32/birthday-wisher-normal-start/__init__.py,d/9/d9d707a6f44e3f369be458b8ab4cbaf57ef5f306
+{
+Ktemp_work/day-32/birthday-wisher-normal-start/letter_templates/letter_3.txt,8/0/801604241475c9f04694f14909b3292e4797c22e
+{
+Ktemp_work/day-32/birthday-wisher-normal-start/letter_templates/letter_2.txt,7/5/75f2900383cc423b7d07dcff0fd16a9d3915df7e
+{
+Ktemp_work/day-32/birthday-wisher-normal-start/letter_templates/letter_1.txt,2/0/20e6a5c89b7aa9b78d96a9ffb5847a7b3023151e
+k
+;temp_work/day-32/birthday-wisher-normal-start/birthdays.csv,4/3/436a9a31ba8ba4ddf259f0204fc37b4378883a74
+Z
+*temp_work/Mail Merge Project Start/main.py,e/6/e6ee7f64a46d366f486c255f6e84d2e6f0dba967
+e
+5temp_work/day-32/birthday-wisher-normal-start/main.py,1/c/1c72086b7443377344f74093037c1b7548471fd5
+g
+7temp_work/day-32/Solution+-+birthday-wisher-end/main.py,b/7/b71dabd41ab0a7f0d9958cd4fa8ffa2cf95f0f26
