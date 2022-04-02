@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="649250fb-0bfa-4d79-9684-c95a06c32731" name="Changes" comment="day 34">
-      <change afterPath="$PROJECT_DIR$/temp_work/day-34/Solution+-+quizzler-app-end/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+    <list default="true" id="649250fb-0bfa-4d79-9684-c95a06c32731" name="Changes" comment="day 34 - 307">
+      <change afterPath="$PROJECT_DIR$/temp_work/day-35/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp_work/day-35/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp_work/day-34/quizzler-app-start/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/temp_work/day-34/quizzler-app-start/data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp_work/day-34/quizzler-app-start/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/temp_work/day-34/quizzler-app-start/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/temp_work/day-34/quizzler-app-start/quiz_brain.py" beforeDir="false" afterPath="$PROJECT_DIR$/temp_work/day-34/quizzler-app-start/quiz_brain.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/temp_work/day-34/quizzler-app-start/ui.py" beforeDir="false" afterPath="$PROJECT_DIR$/temp_work/day-34/quizzler-app-start/ui.py" afterDir="false" />
     </list>
@@ -208,13 +206,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1646903840859</updated>
-    </task>
-    <task id="LOCAL-00026" summary="day 22 - 204-1">
-      <created>1647442246139</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1647442246139</updated>
     </task>
     <task id="LOCAL-00027" summary="day 22 - Finished">
       <created>1647444995059</created>
@@ -552,7 +543,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648827795761</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="day 34 - 307">
+      <created>1648894361976</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1648894361977</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -571,7 +569,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="day 26-244 finished" />
     <MESSAGE value="day 26-250" />
     <MESSAGE value="day 26-252" />
     <MESSAGE value="day 26-252 Finished" />
@@ -596,6 +593,7 @@
     <MESSAGE value="day 32 - Finished" />
     <MESSAGE value="day 33 - Finished" />
     <MESSAGE value="day 34" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 34" />
+    <MESSAGE value="day 34 - 307" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 34 - 307" />
   </component>
 </project>
