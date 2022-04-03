@@ -189,8 +189,6 @@ H
 temp_work/day-33/main.py,8/6/860d6a8d496898e35c60be19e5177cf6a43e614d
 Z
 *temp_work/day-33/issoverhead-start/main.py,c/9/c92a4f9b371a82a633f900d5883b84131089790b
-H
-temp_work/day-34/main.py,a/c/ac7026d30daa5e4e8ff26285e77331dddaf5f900
 L
 temp_work/day-34/__init__.py,e/0/e052243d903178fc94b70e3803b48fea12aef5c2
 L
@@ -201,8 +199,6 @@ h
 8temp_work/day-34/Solution+-+quizzler-app-end/__init__.py,0/9/0956b8e7649c4806c196f3dfc9058c38fe72f944
 d
 4temp_work/day-34/Solution+-+quizzler-app-end/main.py,e/d/ed7b0f24690d9434a186a9c2b43140f9f4009213
-d
-4temp_work/day-34/Solution+-+quizzler-app-end/data.py,f/4/f4fc66fde261df26fb64fd914b8acabe669d92c6
 n
 >temp_work/day-34/Solution+-+quizzler-app-end/question_model.py,0/c/0cdf6354ebf1d9330d590d2a3ce286ecf6e939be
 j
