@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="649250fb-0bfa-4d79-9684-c95a06c32731" name="Changes" comment="day 37">
-      <change afterPath="$PROJECT_DIR$/temp_work/day-37/example_learn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp_work/day-38/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+    <list default="true" id="649250fb-0bfa-4d79-9684-c95a06c32731" name="Changes" comment="day 38">
+      <change afterPath="$PROJECT_DIR$/temp_work/day-39/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp_work/day-39/flight-deals-step-2-solution/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp_work/day-37/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/temp_work/day-37/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,11 +52,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/temp_work/day-39" />
+      <recent name="$PROJECT_DIR$/temp_work" />
+      <recent name="$PROJECT_DIR$/temp_work/day-38" />
       <recent name="$PROJECT_DIR$/temp_work/day-37" />
       <recent name="$PROJECT_DIR$/temp_work/day-36" />
-      <recent name="$PROJECT_DIR$/temp_work" />
-      <recent name="$PROJECT_DIR$/temp_work/day-35" />
-      <recent name="$PROJECT_DIR$/temp_work/day-34" />
     </key>
   </component>
   <component name="RunManager" selected="Python.main (2)">
@@ -206,13 +204,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1646903840859</updated>
-    </task>
-    <task id="LOCAL-00032" summary="day 23 - Finished">
-      <created>1647529433515</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1647529433515</updated>
     </task>
     <task id="LOCAL-00033" summary="day 24 - 220">
       <created>1647618167437</created>
@@ -550,7 +541,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649000226781</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="day 38">
+      <created>1649065426488</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1649065426489</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -569,7 +567,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="day 26-finished" />
     <MESSAGE value="day 29" />
     <MESSAGE value="day 29 - start" />
     <MESSAGE value="day 29 - 264" />
@@ -594,6 +591,7 @@
     <MESSAGE value="day 35 - Finished" />
     <MESSAGE value="day 36 - Finished" />
     <MESSAGE value="day 37" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 37" />
+    <MESSAGE value="day 38" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 38" />
   </component>
 </project>
