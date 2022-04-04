@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="649250fb-0bfa-4d79-9684-c95a06c32731" name="Changes" comment="day 38">
-      <change afterPath="$PROJECT_DIR$/temp_work/day-39/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp_work/day-39/flight-deals-step-2-solution/__init__.py" afterDir="false" />
+    <list default="true" id="649250fb-0bfa-4d79-9684-c95a06c32731" name="Changes" comment="day 41">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp_work/day-39/flight-deals-step-2-solution/data_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/temp_work/day-39/flight-deals-step-2-solution/data_manager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp_work/day-41/home.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp_work/day-41/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/temp_work/day-41/HTML-Personal/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -45,6 +47,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
@@ -52,11 +55,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/temp_work/day-41/HTML-Personal" />
       <recent name="$PROJECT_DIR$/temp_work/day-39" />
       <recent name="$PROJECT_DIR$/temp_work" />
       <recent name="$PROJECT_DIR$/temp_work/day-38" />
       <recent name="$PROJECT_DIR$/temp_work/day-37" />
-      <recent name="$PROJECT_DIR$/temp_work/day-36" />
     </key>
   </component>
   <component name="RunManager" selected="Python.main (2)">
@@ -204,13 +207,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1646903840859</updated>
-    </task>
-    <task id="LOCAL-00033" summary="day 24 - 220">
-      <created>1647618167437</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1647618167437</updated>
     </task>
     <task id="LOCAL-00034" summary="day 24 - 222">
       <created>1647619576114</created>
@@ -548,7 +544,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649065426489</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="day 41">
+      <created>1649067066619</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1649067066619</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -567,7 +570,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="day 29" />
     <MESSAGE value="day 29 - start" />
     <MESSAGE value="day 29 - 264" />
     <MESSAGE value="day 29 - Finished" />
@@ -592,6 +594,7 @@
     <MESSAGE value="day 36 - Finished" />
     <MESSAGE value="day 37" />
     <MESSAGE value="day 38" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 38" />
+    <MESSAGE value="day 41" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 41" />
   </component>
 </project>
