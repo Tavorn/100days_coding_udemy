@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="649250fb-0bfa-4d79-9684-c95a06c32731" name="Changes" comment="day 41">
-      <change afterPath="$PROJECT_DIR$/temp_work/day-41/HTML-Personal/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp_work/day-41/HTML-Personal/hobbies.html" afterDir="false" />
+    <list default="true" id="649250fb-0bfa-4d79-9684-c95a06c32731" name="Changes" comment="day 42 - 365">
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp_work/day-41/HTML-Personal/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/temp_work/day-41/HTML-Personal/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -208,13 +205,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1646903840859</updated>
-    </task>
-    <task id="LOCAL-00035" summary="day 24 - 223">
-      <created>1647620602664</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1647620602664</updated>
     </task>
     <task id="LOCAL-00036" summary="day 24 - 223 start">
       <created>1647698936649</created>
@@ -552,7 +542,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649069232493</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="day 42 - 365">
+      <created>1649083437122</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1649083437123</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -571,7 +568,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="day 29 - start" />
     <MESSAGE value="day 29 - 264" />
     <MESSAGE value="day 29 - Finished" />
     <MESSAGE value="day 30" />
@@ -596,6 +592,7 @@
     <MESSAGE value="day 37" />
     <MESSAGE value="day 38" />
     <MESSAGE value="day 41" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 41" />
+    <MESSAGE value="day 42 - 365" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 42 - 365" />
   </component>
 </project>

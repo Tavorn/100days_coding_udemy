@@ -255,3 +255,7 @@ L
 temp_work/day-41/__init__.py,e/4/e4cc4acab1a42ff22baaa5b4a24eb914556ca09c
 m
 =temp_work/day-39/flight-deals-step-2-solution/data_manager.py,4/f/4f22cb3253836321d6db473c2aacf2b9dfe8dd48
+[
++temp_work/day-41/HTML-Personal/contact.html,f/0/f09bb6a949686f4e189fbdb167f98a8986ac23e4
+[
++temp_work/day-41/HTML-Personal/hobbies.html,b/3/b3cf006d62ddf76f6c8bdceb67d99ea78d341214
